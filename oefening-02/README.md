@@ -16,4 +16,4 @@
 ## 💡 vragen
 
 - Waarvoor staat de afkorting `ol`? orded list
-- Welke elementen worden in deze oefening "genest"? wat word er met genest bedoeld?
+- Welke elementen worden in deze oefening "genest"? HTML, CSS en JavaScript weer.
