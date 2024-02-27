@@ -17,4 +17,4 @@
 
 - Waarvoor staat de afkorting `ul`? unorded list
 - Waarvoor staat de afkorting `li`? list
-- Welke elementen worden in deze oefening "genest"? geen idee
+- Welke elementen worden in deze oefening "genest"? HTML, CSS en JavaScript
