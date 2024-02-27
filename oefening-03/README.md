@@ -15,5 +15,5 @@
 
 ## 💡 vragen
 
-- Welke elementen worden in deze oefening "genest"?
-- Hoeveel "nesting niveau's" heb je hier?
+- Welke elementen worden in deze oefening "genest"? 2?
+- Hoeveel "nesting niveau's" heb je hier? 2 of 6?
