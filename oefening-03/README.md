@@ -15,5 +15,5 @@
 
 ## 💡 vragen
 
-- Welke elementen worden in deze oefening "genest"? 2?
-- Hoeveel "nesting niveau's" heb je hier? 2 of 6?
+- Welke elementen worden in deze oefening "genest"? HTML; daaronder Structuur, Tekst, Verwijzingen, Lijsten, Afbeeldingen. CSS; daaronder Afmetingen en Kleuren. En als laatste JavaScript.
+- Hoeveel "nesting niveau's" heb je hier? 2
